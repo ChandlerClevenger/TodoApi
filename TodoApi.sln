@@ -5,7 +5,7 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi\TodoApi.csproj", "{453BCF57-3BB6-4DA8-8263-C72326F30301}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "todofrontend", "TodoFrontend\todofrontend.esproj", "{F7CB269D-E765-4381-8B36-9CAFE3D893BB}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TodoFrontend", "TodoFrontend\TodoFrontend.esproj", "{F7CB269D-E765-4381-8B36-9CAFE3D893BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
